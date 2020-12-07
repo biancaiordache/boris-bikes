@@ -24,3 +24,7 @@ Describe how to install/setup your local environment/add link to demo version.
 
 ## Status
 Project is in progress.
+
+## Other information
+
+Walkthrough of user stories and feature test found here: https://docs.google.com/document/d/1LdDJbL6Y2Nz0cGVO0dEzXwTl8Oe4NZmTIQrCim_MRZM/edit
