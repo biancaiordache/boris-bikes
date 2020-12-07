@@ -3,15 +3,15 @@ A Ruby program that emulates all the docking stations, bikes, and infrastructure
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#Technologies)
-* Launch
-* Setup
-* Examples of use
-* Illustrations
-* Scope of functionalities
-* Status
-* Sources
-* Other information
+* [Technologies](#technologies)
+* [Launch](#launch)
+* [Setup](#setup)
+* [Examples of use](#examples-of-use)
+* [Illustrations](#illustrations)
+* [Scope of functionalities](#scope-of-functionalities)
+* [Status](#status)
+* [Sources](#sources)
+* [Other information](#other-information)
 
 ## General info
 The project's aim is...
